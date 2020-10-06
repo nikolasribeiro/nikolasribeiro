@@ -16,4 +16,4 @@ Hey there 👋,
 I'm a full stack software developer at Holberton School and self-learner in Python.
 I have a passion for learning and sharing my knowledge with others.
 
-From Uruguay to the world, i invite you to see my website: [nicolasribeiro.com](nicolasribeiro.com)
+From Uruguay to the world, i invite you to see my website: <a href="http://www.nicolasribeiro.com">nicolasribeiro.com</a>
