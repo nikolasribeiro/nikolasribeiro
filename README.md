@@ -1,3 +1,1 @@
-##Hi Everyone!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasribeiro)](https://github.com/nikolasribeiro/github-readme-stats)
+![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nikolasribeiro&show_icons=true&theme=radical)
