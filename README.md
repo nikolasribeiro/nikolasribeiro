@@ -1,4 +1,5 @@
 <h1>Hi Everyone!</h1>
+<p>I'm Nicolas Ribeiro, a Holberton School student and Python programmer</p>
 
 
 ![Nicolas's github stats](https://github-readme-stats.vercel.app/api?username=nikolasribeiro&show_icons=true&theme=radical)
@@ -15,6 +16,4 @@ Hey there 👋,
 I'm a full stack software developer at Holberton School and self-learner in Python.
 I have a passion for learning and sharing my knowledge with others.
 
-From Uruguay to the world, i invite you to see my website: nicolasribeiro.com
- 
-  ---
+From Uruguay to the world, i invite you to see my website: [nicolasribeiro.com](nicolasribeiro.com)
